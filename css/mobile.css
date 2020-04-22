@@ -1,0 +1,25 @@
+@media (max-width: 600px){
+
+    .description-section {
+        margin-top: 740px;
+        /* display: block; */
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+    }
+
+    .main-section{
+        margin-top: -40px;
+    }
+
+    .service{
+        justify-content: center;
+        margin-top: -80px;
+    }
+
+    .service .content{
+        width: 170px;
+    }
+
+    
+}
